@@ -29,7 +29,4 @@ getPlanetData([3, 5]).then((data) => {
 }
 
 console.log(task6(3).then(res => console.log(res))) 
-
-https://cdn.rawgit.com/JrrFrd/skillcrucial-testpages/main/skillcrucial-web-project/week-7-homework/script.js
-
 */

@@ -8,7 +8,7 @@ const getPlanetData = (planetIds) => {
 
 getPlanetData([3, 5]).then((data) => {
 		console.log (data)
-		document.write(JSON.stringify(data)) 
+		document.write(JSON.stringify(data[0])) 
 });
 
 /* const task6 = (planetId) => {
